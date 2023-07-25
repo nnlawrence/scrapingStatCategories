@@ -24,7 +24,6 @@ axios(url)
       });
     });
     console.log(statCategories);
-    // console.log(select);
   })
   .catch((err) => console.log(err));
 
